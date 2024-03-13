@@ -1,0 +1,31 @@
+.skill-section{
+    row-gap: 3px;
+    margin-top: 60px;
+}
+
+.input{
+    margin: 5px;
+}
+
+input{
+ height: 30px;
+ width: 50%;
+}
+
+.skill-btn{
+    margin-left: 10px;
+}
+
+#form{
+    box-sizing: border-box;
+    height: 500px;
+    width: 500px;
+    background-color: red;
+}
+
+button{
+    height: 35px;
+    width: 50px;
+    cursor: pointer;
+    border-radius: 5px;
+}

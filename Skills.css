@@ -1,0 +1,38 @@
+/* .skills-section{
+    height: 70px;
+    width:100%;
+    background-color: aqua;
+} */
+.render-listt{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 5px;
+    display: flex;
+    /* justify-content:space-evenly ; */
+    font-weight: 500px;
+    font-size: medium;
+}
+
+.skillss-btn{
+    display: flex;
+    margin-right: 500px;
+    gap: 10px;
+}
+.skill-del{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+} 
+
+.skill-del:active{
+    background-color: cornflowerblue;
+}
+.skill-del:hover{
+    color: rgb(28, 100, 202);
+}
+
+.skill-upd{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
